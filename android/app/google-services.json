@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "866127316082",
+    "project_id": "mtms-f2ea6",
+    "storage_bucket": "mtms-f2ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866127316082:android:38f824171f9a225f342eeb",
+        "android_client_info": {
+          "package_name": "com.example.mtmsTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866127316082-03bq9n7ej1fnk9dkt1a3rfq88vhuerah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mtmsTask",
+            "certificate_hash": "4122bcbcc2a8ef6afd0ad54b7f5916a449bdad54"
+          }
+        },
+        {
+          "client_id": "866127316082-k161ecbbk9bs363242v9qkr32625a58r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVIFH_DTkBtDUlDw0ZT8MWt9dDahVHrYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866127316082-k161ecbbk9bs363242v9qkr32625a58r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "866127316082-b3m7dtdjaskv3bvh0rivnn1sk3atfhaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mtmsTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
